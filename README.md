@@ -86,3 +86,14 @@ Third-party software/service, all rights belong to the original authors and trad
 <sub>Third-party software/service, all rights belong to the original authors. Unofficial listing for Pipedrive.</sub>
 
 </div>
+
+
+## More links
+
+- 🌐 **[Visit Pipedrive on SOFTGIT](https://softgit.pro/p/pipedrive)** — the full listing.
+- 📄 **[Pipedrive web page](https://thresholdhelmsman.github.io/pipedrive-download/)** — standalone info page.
+- 🗂️ [More Business software](https://softgit.pro/category/business)
+- 🏠 [SOFTGIT home](https://softgit.pro) · [All apps](https://softgit.pro/apps)
+- 🔒 [Verify a download (SHA-256)](https://softgit.pro/security)
+
+> Unofficial listing for Pipedrive. Third-party software; all rights belong to the original authors.
